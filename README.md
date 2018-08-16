@@ -1,2 +1,2 @@
-# deepGP
+# DeepGP
 Deep Gaussian Process Model 
